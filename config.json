@@ -72,6 +72,30 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "interactive-web-forms",
+      "title": "Interactive Web Forms",
+      "description": "Create interactive web forms with HTML, CSS, and JavaScript validation",
+      "path": "assignments/interactive-web-forms",
+      "dueDate": "2026-05-13",
+      "attachments": [
+        {
+          "name": "Starter HTML",
+          "file": "index.html",
+          "type": "html"
+        },
+        {
+          "name": "Starter CSS",
+          "file": "styles.css",
+          "type": "css"
+        },
+        {
+          "name": "Starter JavaScript",
+          "file": "script.js",
+          "type": "javascript"
+        }
+      ]
     }
   ]
 }
